@@ -5,6 +5,17 @@ body{
   font-family: 'Caesar Dressing', cursive; 
   margin: 0;
 }
+h1{
+  margin: 0px;
+}
+header{
+  background-image: url('../images/gloria.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  
+}
 nav{
   background-color:aquamarine;
   height: 50px;
